@@ -1,0 +1,1 @@
+This repository contains the code of the authors' gender evaluation following the methodology and dataset available at https://blog.brasil.io/2019/05/31/classificando-nomes-por-genero-usando-dados-publicos/index.html 
